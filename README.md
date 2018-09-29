@@ -5,6 +5,10 @@ This repository contains a pedagogical implementation of the 0x protocol's v0 [s
 This implementation is currently in progress, and is written using Node.js, Express, Mongoose, and MongoDB.
 
 ```
+module.js:550
+
+    throw err;
+    
 Error: Cannot find module 'dotenv'
 
     at Function.Module._resolveFilename (module.js:548:15)
